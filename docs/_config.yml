@@ -76,7 +76,7 @@ links:
   #     show: true
   #     href: https://twitter.com/YOUR_TWITTER_USERNAME
   #     icon: fab fa-twitter
-- googlescholar:
+  - googlescholar:
       name: Google Scholar
       show: true
       href: https://scholar.google.com/citations?user=hwPzzQcAAAAJ&hl=en
