@@ -181,11 +181,12 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    
-    
+    <p>
+    <br> 
     I'm a PhD student in the field of Human-Computer Interaction (HCI), part of the GEMINI project team at Lancaster University, advised by Prof. Hans Gellersen. My research explores hands-free interactions in Extended Reality (XR), with the goal of creating a more natural and effortless user experience.
+    <br>
     In particular, I apply machine learning (ML) and signal processing to develop novel eye-head-based interaction techniques. I chase a future where ML-enabled computing power augments human abilities, interfacing in naturally human ways.
-    
+    <br>
     Using an experimental approach, I explore various interfacing technologies, including eye tracking, virtual reality, XR and EOG glasses, and EEG. With publications in CHI, INTERACT, ETRA, and COGAIN. 
     
 #EOF
