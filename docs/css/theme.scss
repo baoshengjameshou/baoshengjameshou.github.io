@@ -25,12 +25,13 @@ body {
 
 div.glass-pane {
     background-color: rgba(0, 0, 0, 0.5);
-    width: 100%;
+    width: 10%;
     min-height: 42vh;  /* always cover at least the sky */
 }
 
 div.fuse-core-content {
-    color: white;
+    color: black;
+    width: 10%;
 }
 
 
