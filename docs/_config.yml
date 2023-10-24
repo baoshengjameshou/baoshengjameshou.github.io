@@ -80,7 +80,7 @@ links:
       name: Google Scholar
       show: true
       href: https://scholar.google.com/citations?user=hwPzzQcAAAAJ&hl=en
-      icon: fab fa-google-scholar
+      icon: fas fa-graduation-cap
       
 #   - xing:
 #       name: Xing
