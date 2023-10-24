@@ -12,12 +12,12 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Baosheng James Hou main
+name: Baosheng James Hou
 #subtitle:
-subtitle: Engineer
+subtitle: 
 
 # Title attribute of HTML Page, uses 'name' from above if empty
-title: Baosheng James Hou1
+title: 
 
 # Information for web crawlers / Google, all of them optional
 # 'description' and 'keywords' simply set the corresponding meta tags,
@@ -58,8 +58,8 @@ plausible:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://avatars0.githubusercontent.com/u/8897534"
-#avatar: "images/hou_edited.jpg"
+#avatar: "https://avatars0.githubusercontent.com/u/8897534"
+avatar: "images/hou_edited.jpg"
 #avatar:
 
 
@@ -181,7 +181,14 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+    I'm a PhD student in the field of Human-Computer Interaction (HCI), 
+    part of the GEMINI project team at Lancaster University, advised by Prof. Hans Gellersen. 
+    My research explores hands-free interactions in Extended Reality (XR), with the goal of creating a more natural and effortless user experience.
+    In particular, I apply machine learning (ML) and signal processing to develop novel eye-head-based interaction techniques. I chase a future where ML-enabled computing power augments human abilities, interfacing in naturally human ways.
+    Using an experimental approach, I explore various interfacing technologies, including eye tracking, virtual reality, XR and EOG glasses, and EEG. With publications in CHI, INTERACT, ETRA, and COGAIN. 
+
+
+
+Google Scholar, LinkedIn, Twitter, CV.
 
 #EOF
