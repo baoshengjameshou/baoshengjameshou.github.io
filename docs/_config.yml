@@ -66,27 +66,27 @@ avatar: "../images/hou_edited.jpg"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-     - linkedin:
+  - linkedin:
       name: LinkedIn
-      show: false
-      href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+      show: true
+      href: https://uk.linkedin.com/in/baosheng-james-hou-420931217
       icon: fab fa-linkedin
-    - twitter:
+  - twitter:
       name: Twitter
       show: true
       href: https://twitter.com/YOUR_TWITTER_USERNAME
       icon: fab fa-twitter
-    - googlescholar:
-        name: Google Scholar
-        show: true
-        href: https://scholar.google.com/citations?user=hwPzzQcAAAAJ&hl=en
-        icon: fab fa-google-scholar
+# - googlescholar:
+#     name: Google Scholar
+#     show: true
+#     href: https://scholar.google.com/citations?user=hwPzzQcAAAAJ&hl=en
+#     icon: fab fa-google-scholar
       
-  # - xing:
-  #     name: Xing
-  #     show: false
-  #     href: https://www.xing.com/profile/YOUR_XING_USERNAME/
-  #     icon: fab fa-xing
+#   - xing:
+#       name: Xing
+#       show: false
+#       href: https://www.xing.com/profile/YOUR_XING_USERNAME/
+#       icon: fab fa-xing
   # - googleplus:
   #     name: Google+
   #     show: false
