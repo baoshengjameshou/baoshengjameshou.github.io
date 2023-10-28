@@ -114,16 +114,18 @@ a {
 
 
   @include large {
-    padding: 0rem 0rem;
+    padding: 0rem 6rem;
     padding-top: 5rem;
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 0rem 4rem;
+    padding-top: 3rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 0rem 1rem;
+    padding-top: 2rem;
   }
 }
 
