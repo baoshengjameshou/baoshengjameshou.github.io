@@ -85,7 +85,7 @@ a {
 
   @include large {
     padding: 0.3rem 0.5rem;
-    font-size: 1rem;
+    font-size: 2rem;
   }
 
   @include medium {
@@ -179,10 +179,10 @@ a {
   }
 
   @include large {
-    max-width: 64rem;
+    max-width: 70rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
   }
 
   @include medium {
