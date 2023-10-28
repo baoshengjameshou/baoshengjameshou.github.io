@@ -228,7 +228,19 @@ a {
   }
 
   img {
-    max-width: 15%;
+
+    @include large {
+      max-width: 30%;
+    }
+  
+    @include medium {
+      max-width: 50%;
+    }
+  
+    @include small {
+      max-width: 50%;
+    }
+
     display: flex;
     justify-content: center; /* Horizontal centering */
     align-items: center; /* Vertical centering */
