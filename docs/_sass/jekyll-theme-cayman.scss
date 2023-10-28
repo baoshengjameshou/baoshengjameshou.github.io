@@ -85,19 +85,19 @@ a {
 
   @include large {
     padding: 0.3rem 0.5rem;
-    font-size: 1.8rem;
+    font-size: 2rem;
   }
 
   @include medium {
     padding: 0.3rem 0.5rem;
-    font-size: 0.9rem;
+    font-size: 1.2rem;
   }
 
   @include small {
     // display: block;
     // width: 100%;
     padding: 0.3rem;
-    font-size: 0.9rem;
+    font-size: 1.2rem;
 
     // + .btn {
     //   margin-top: 1rem;
