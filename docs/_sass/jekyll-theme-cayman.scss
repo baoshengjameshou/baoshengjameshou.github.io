@@ -136,6 +136,21 @@ a {
   padding: 0;
   background-color: #800020;
   border: 0;
+
+  @include large {
+    padding: 0rem 6rem;
+    padding-bottom: 5rem;
+  }
+
+  @include medium {
+    padding: 0rem 4rem;
+    padding-bottom: 3rem;
+  }
+
+  @include small {
+    padding: 0rem 1rem;
+    padding-bottom: 2rem;
+  }
 }
 
 .project-name {
@@ -185,20 +200,17 @@ a {
   @include large {
     max-width: 78rem;
     padding: 2rem 6rem;
-    padding-top: 5rem;
     margin: 0 auto;
     font-size: 1.8rem;
   }
 
   @include medium {
     padding: 2rem 4rem;
-    padding-top: 3rem;
     font-size: 1.1rem;
   }
 
   @include small {
     padding: 2rem 1rem;
-    font-size: 1rem;
   }
   
   kbd {
