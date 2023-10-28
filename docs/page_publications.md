@@ -6,7 +6,7 @@ description:
 
 ## Publications
 
-Publications information can also be found on my [Google Scholar](https://scholar.google.com/citations?user=hwPzzQcAAAAJ&hl=en) profile.
+Publications information can also be found on my [Google Scholar page](https://scholar.google.com/citations?user=hwPzzQcAAAAJ&hl=en){{:target="_blank"}}.
 
 
 **Exploring Eye Expressions for Enhancing EOG-Based Interaction**<br>
