@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Baosheng James Hou
+description: 
 ---
 
-## Welcome to another page
+## Publications
 
 _yay_
 
-[back](./)
+<!-- [back](./) -->
