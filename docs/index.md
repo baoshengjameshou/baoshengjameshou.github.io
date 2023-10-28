@@ -103,7 +103,7 @@ end
 
 ### Large image
 
-![Branching](images/Hou.jpg)
+![James](images/Hou.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
