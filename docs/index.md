@@ -10,11 +10,11 @@ In my research, I apply machine learning (ML) and signal processing to model hum
 
 Using an experimental approach, I explore various interfacing technologies, including eye tracking, virtual reality and XR headsets, EOG, and EEG. With publications in _CHI_, _INTERACT_, _ETRA_, and _COGAIN_.
 
-> [<u>CV</u>](docs/resume.pdf){:target="_blank"}<br>
+<!-- > [<u>CV</u>](docs/resume.pdf){:target="_blank"}<br>
 > [<u>Google Scholar</u>](https://scholar.google.com/citations?user=hwPzzQcAAAAJ&hl=en){:target="_blank"}<br>
 > [<u>LinkedIn</u>](https://uk.linkedin.com/in/baosheng-james-hou-420931217){:target="_blank"}<br>
 > [<u>Twitter</u>](https://twitter.com/JamesBHou){:target="_blank"}<br>
-> [<u>Email</u>](mailto:b.hou2@lancaster.ac.uk){:target="_blank"}<br>
+> [<u>Email</u>](mailto:b.hou2@lancaster.ac.uk){:target="_blank"}<br> -->
 
 # Biography
 Baosheng, also known as James, has a background in biomedical engineering and obtained his Bachelor's from the University of Auckland. Adviced by [Assoc. Prof. Richard Clarke](https://profiles.auckland.ac.nz/rj-clarke){:target="_blank"} and [Prof. John Cater](https://www.canterbury.ac.nz/engineering/contact-us/people/john-cater.html){:target="_blank"}, he modelled the computational fluid dynamics of the human vocal tract. James interned at the Auckland Bioengineering Institute, where adviced by [Dr. Duane Malcom](https://www.flowx.io/about/){:target="_blank"}, he used machine learning to predict soft tissue deformation for cancer imaging. And advised by [Dr. Kumar Mithraratne](https://profiles.auckland.ac.nz/p-mithraratne/about){:target="_blank"} and [Dr. Ted Yeung](https://profiles.auckland.ac.nz/ted-yeung){:target="_blank"}, modelled the motions of the human shoulder complex to evaluate novel motion tracking technologies. 
