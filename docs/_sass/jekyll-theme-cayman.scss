@@ -94,15 +94,15 @@ a {
   }
 
   @include small {
-    display: block;
-    width: 100%;
+    // display: block;
+    // width: 100%;
     padding: 0.3rem;
     font-size: 0.9rem;
 
-    + .btn {
-      margin-top: 1rem;
-      margin-left: 0;
-    }
+    // + .btn {
+    //   margin-top: 1rem;
+    //   margin-left: 0;
+    // }
   }
 }
 
@@ -182,7 +182,7 @@ a {
     max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 
   @include medium {
