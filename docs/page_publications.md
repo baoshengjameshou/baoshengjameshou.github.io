@@ -10,6 +10,6 @@ Publications information can also be found on my [Google Scholar](https://schola
 
 
 **Exploring Eye Expressions for Enhancing EOG-Based Interaction**<br>
->> J Newn, S Quesada, BJ Hou, AA Khan, F Weidner, H Gellersen (2023). In _IFIP Conference on Human-Computer Interaction_ (Link)
+<span class="indentLeft">J Newn, S Quesada, BJ Hou, AA Khan, F Weidner, H Gellersen (2023). In _IFIP Conference on Human-Computer Interaction_ (Link)</span>
 
 <!-- [back](./) -->
