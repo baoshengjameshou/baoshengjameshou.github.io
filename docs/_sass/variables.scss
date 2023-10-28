@@ -2,13 +2,13 @@
 $large-breakpoint: 64em !default;
 $medium-breakpoint: 42em !default;
 
-// Headers
-$header-heading-color: #fff !default;
-$header-bg-color: #606c71;//#159957 !default;
-$header-bg-color-secondary: #155799 !default;
+// Headers top horizontal block of colour
+$header-heading-color: #000;//#fff !default;
+$header-bg-color: #fff;//#159957 !default;
+$header-bg-color-secondary: #fff;//#155799 !default;
 
 // Text
-$section-headings-color: #159957 !default;
+$section-headings-color: #000;//#159957 !default;
 $body-text-color: #606c71 !default;
 $body-link-color: #1e6bb8 !default;
 $blockquote-text-color: #819198 !default;
