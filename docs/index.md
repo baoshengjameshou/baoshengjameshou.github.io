@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I'm a PhD student in the field of Human-Computer Interaction (HCI), part of the GEMINI project team at Lancaster University, advised by Prof. Hans Gellersen. In GEMINI, we design multimodal interfaces that better reflect the interplay of gaze and movement, and create novel interfaces that let users interact more naturally in extended reality (XR), using their eyes and body in concert.
+I'm a PhD student in the field of Human-Computer Interaction (HCI), part of the GEMINI project team at Lancaster University, advised by Prof. Hans Gellersen. In GEMINI, we create multimodal interfaces that let users interact more naturally in extended reality (XR), using their eyes and body in concert.
 
-In my research, I model human behaviour as context for interaction and apply machine learning (ML) and signal processing to develop novel eye-head-based interaction techniques. I chase a future where ML-enabled computing power augments human abilities, interfacing in naturally human ways.
+In my research, I apply machine learning (ML) and signal processing to develop novel eye-head-based interaction techniques. I am interested in modelling human behaviour as context for interaction, and chase a future where ML-enabled computing power augments human abilities, interfacing in naturally human ways.
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
