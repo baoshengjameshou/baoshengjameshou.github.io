@@ -158,7 +158,7 @@ a {
   margin-bottom: 0.1rem;
 
   @include large {
-    font-size: 5rem;//3.25rem;
+    font-size: 3.25rem;
   }
 
   @include medium {
@@ -201,7 +201,7 @@ a {
     max-width: 78rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 1.8rem;
+    font-size: 1.3rem;
   }
 
   @include medium {
@@ -230,7 +230,7 @@ a {
   img {
 
     @include large {
-      max-width: 40%;
+      max-width: 20%;
     }
   
     @include medium {
