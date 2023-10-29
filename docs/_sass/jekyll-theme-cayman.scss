@@ -198,7 +198,7 @@ a {
   }
 
   @include large {
-    max-width: 60rem;
+    max-width: 50%;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.3rem;
@@ -230,7 +230,7 @@ a {
   img {
 
     @include large {
-      max-width: 20%;
+      max-width: 50%;
     }
   
     @include medium {
