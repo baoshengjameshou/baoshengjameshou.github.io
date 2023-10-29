@@ -248,6 +248,25 @@ a {
     margin: 0 auto; /* Remove default body margin */
   }
 
+  .responsive-image {
+    display: inline-block;
+    @include large {
+      width:1.8rem;
+      height:1.8rem;
+    }
+  
+    @include medium {
+      width:1.1rem;
+      height:1.1rem;
+    }
+  
+    @include small {
+      width:1rem;
+      height:1rem;
+    }
+  }
+
+
   h1,
   h2,
   h3,
