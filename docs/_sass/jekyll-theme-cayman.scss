@@ -115,12 +115,12 @@ a {
 
   @include large {
     padding: 0rem 6rem;
-    padding-top: 5rem;
+    padding-top: 2rem;
   }
 
   @include medium {
     padding: 0rem 4rem;
-    padding-top: 3rem;
+    padding-top: 2rem;
   }
 
   @include small {
@@ -198,13 +198,14 @@ a {
   }
 
   @include large {
-    max-width: 60%;
+    max-width: 55rem;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem;
   }
 
   @include medium {
+    max-width: 55rem;
     padding: 2rem 4rem;
     font-size: 1.1rem;
   }
