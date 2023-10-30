@@ -241,7 +241,7 @@ a {
     }
   
     @include small {
-      max-width: 50%;
+      max-width: min(50%, 14rem);
     }
 
     display: flex;
