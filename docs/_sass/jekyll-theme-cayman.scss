@@ -232,11 +232,11 @@ a {
   img {
 
     @include large {
-      max-width: 12rem;
+      max-width: 14rem;
     }
   
     @include medium {
-      max-width: 12rem;
+      max-width: 14rem;
     }
   
     @include small {
@@ -248,13 +248,14 @@ a {
     align-items: center; /* Vertical centering */
     // height: 100vh; /* Ensure full viewport height */
     margin: 0 auto; /* Remove default body margin */
+    padding-bottom: 3rem;
   }
 
   .responsive-image {
     display: inline-block;
     @include large {
-      width:1.8rem;
-      height:1.8rem;
+      width:1.1rem;
+      height:1.1rem;
     }
   
     @include medium {
