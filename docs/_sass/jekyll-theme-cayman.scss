@@ -244,6 +244,7 @@ a {
   
     @include small {
       max-width: min(50%, 14rem); 
+    }
 
     display: flex;
     justify-content: center; /* Horizontal centering */
