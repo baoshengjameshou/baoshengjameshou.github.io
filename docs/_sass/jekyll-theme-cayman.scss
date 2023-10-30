@@ -159,15 +159,15 @@ a {
   margin-bottom: 0.1rem;
 
   @include large {
-    font-size: 2.25rem;
+    font-size: 2.6rem;
   }
 
   @include medium {
-    font-size: 2.25rem;
+    font-size: 2.6rem;
   }
 
   @include small {
-    font-size: 2.25rem;
+    font-size: 2.6rem;
   }
 }
 
@@ -199,14 +199,14 @@ a {
   }
 
   @include large {
-    max-width: 55rem;
+    max-width: 52rem;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem;
   }
 
   @include medium {
-    max-width: 50rem;
+    max-width: 52rem;
     padding: 2rem 4rem;
     font-size: 1.1rem;
   }
@@ -232,11 +232,11 @@ a {
   img {
 
     @include large {
-      max-width: 15rem;
+      max-width: 12rem;
     }
   
     @include medium {
-      max-width: 15rem;
+      max-width: 12rem;
     }
   
     @include small {
