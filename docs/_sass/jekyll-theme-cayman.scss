@@ -10,7 +10,7 @@
 }
 
 @mixin medium {
-  @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
+  @media screen and (min-width: (#{$medium-breakpoint}/2))) and (max-width: #{$large-breakpoint}) {
     @content;
   }
 }
@@ -243,8 +243,7 @@ a {
     }
   
     @include small {
-      max-width: min(25%, 14rem);
-    }
+      max-width: min(50%, 14rem); 
 
     display: flex;
     justify-content: center; /* Horizontal centering */
