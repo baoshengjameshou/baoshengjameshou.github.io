@@ -159,7 +159,7 @@ a {
   margin-bottom: 0.1rem;
 
   @include large {
-    font-size: 3.25rem;
+    font-size: 2.25rem;
   }
 
   @include medium {
@@ -167,7 +167,7 @@ a {
   }
 
   @include small {
-    font-size: 1.75rem;
+    font-size: 2.25rem;
   }
 }
 
@@ -232,11 +232,11 @@ a {
   img {
 
     @include large {
-      max-width: 19rem;
+      max-width: 15rem;
     }
   
     @include medium {
-      max-width: 17rem;
+      max-width: 15rem;
     }
   
     @include small {
