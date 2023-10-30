@@ -208,6 +208,7 @@ a {
   @include medium {
     max-width: 52rem;
     padding: 2rem 6rem;
+    margin: 0 auto;
     font-size: 1.1rem;
   }
 
@@ -251,8 +252,9 @@ a {
     // padding-bottom: 3rem;
     margin-bottom: 3rem;
   }
-
+ 
   .responsive-image {
+    margin-bottom: 0rem;
     display: inline-block;
     @include large {
       width:1.1rem;
