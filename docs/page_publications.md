@@ -8,6 +8,14 @@ description:
 
 Publications information can also be found on my [Google Scholar profile](https://scholar.google.com/citations?user=hwPzzQcAAAAJ&hl=en){:target="_blank"}.
 
+**GazeSwitch: Automatic Eye-Head Mode Switching for Optimised Hands-Free Pointing.**
+<u>BJ Hou</u>, J Newn, L Sidenmark, AA Khan, H Gellersen (2024). In _Proceedings of the ACM on Human-Computer Interaction 8 (ETRA)_ ([Link](https://dl.acm.org/doi/abs/10.1145/3655601){:target="_blank"})
+
+**Unveiling Variations: A Comparative Study of VR Headsets Regarding Eye Tracking Volume, Gaze Accuracy, and Precision.** 
+<u>BJ Hou</u>, Y Abdrabou, F Weidner, H Gellersen (2024). In _2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)_ ([Link](https://ieeexplore.ieee.org/abstract/document/10536449){:target="_blank"})
+
+**Understanding the impact of the reality-virtuality continuum on visual search using fixation-related potentials and eye tracking features.**
+F Chiossi, U Gruenefeld, <u>BJ Hou</u>, J Newn, C Ou, R Liao, R Welsch, S Mayer (2024). In _Proceedings of the ACM on Human-Computer Interaction 8 (MHCI)_ ([Link](https://dl.acm.org/doi/abs/10.1145/3676528){:target="_blank"})
 
 **Exploring Eye Expressions for Enhancing EOG-Based Interaction.**
 J Newn, S Quesada, <u>BJ Hou</u>, AA Khan, F Weidner, H Gellersen (2023). In _IFIP Conference on Human-Computer Interaction_ ([Link](https://link.springer.com/chapter/10.1007/978-3-031-42293-5_6){:target="_blank"})
