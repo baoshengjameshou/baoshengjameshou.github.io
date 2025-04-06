@@ -4,7 +4,7 @@ layout: default
 
 ![James](images/HOU_circle.jpg)
 
-I'm a PhD student in the field of Human-Computer Interaction (HCI), part of the [GEMINI](https://gemini-erc.eu/){:target="_blank"} project team at Lancaster University, supervised by [Prof. Hans Gellersen](https://www.lancaster.ac.uk/scc/about-us/people/hans-gellersen){:target="_blank"}. In GEMINI, we investigate the coordination of eye, head and body to design multimodal interfaces that 
+I'm a PhD student in the field of Human-Computer Interaction (HCI), part of the [GEMINI](https://gemini-erc.org/){:target="_blank"} project team at Lancaster University, supervised by [Prof. Hans Gellersen](https://www.lancaster.ac.uk/scc/about-us/people/hans-gellersen){:target="_blank"}. In GEMINI, we investigate the coordination of eye, head and body to design multimodal interfaces that 
 <!-- more accurately capture the dynamic relationship between gaze and movement. Our goal is to enable users to  -->
 better reflect the interplay of gaze and movement, and that let users 
 interact more naturally in extended reality (XR), using their eyes and body in concert.
